@@ -18,6 +18,9 @@
             <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Cnidaria.pdf">Cnidaria</a></td>
           </tr>
           <tr>
+            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Spiralia.pdf">Spiralia</a></td>
+          </tr>
+          <tr>
             <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Hexapoda.pdf">Hexapoda</a></td>
           </tr>
           <tr>
