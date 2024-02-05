@@ -12,7 +12,7 @@
             <td><a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Viridiplantae.pdf">Viridiplantae (green plants)</a></td>
           </tr>
           <tr>
-            <td><a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_eudicots.pdf">Eudicots.pdf (green plants)</a></td>
+            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_eudicots.pdf">Eudicots.pdf</a></td>
           </tr>
           <tr>
             <td><a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Metazoa.pdf">Metazoa (animals)</a></td>
