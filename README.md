@@ -36,6 +36,9 @@
             <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Actinopterygii.pdf">Actinopterygii</a></td>
           </tr>
           <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Neoteleostei.pdf">Neoteleostei</a></td>
+          </tr>
+          <tr>
             <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Aves.pdf">Aves</a></td>
           </tr>
           <tr>
