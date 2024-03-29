@@ -1,5 +1,5 @@
 # Species tree
- Our species tree hypothesis used in [ORTHOSCOPE](https://github.com/jun-inoue/orthoscope), [ORTHOSCOPE*](https://github.com/jun-inoue/ORTHOSCOPE_STAR), and [dbCNS](http://yamasati.nig.ac.jp/dbcns/) analyses.
+The species tree used in [ORTHOSCOPE](https://github.com/jun-inoue/orthoscope), [ORTHOSCOPE*](https://github.com/jun-inoue/ORTHOSCOPE_STAR), and [dbCNS](http://yamasati.nig.ac.jp/dbcns/) analyses.
 
 ---
 
