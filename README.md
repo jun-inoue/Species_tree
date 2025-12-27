@@ -12,7 +12,7 @@ The species tree used in [ORTHOSCOPE](https://github.com/jun-inoue/orthoscope), 
             <td><a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Plants.pdf">Plants</a></td>
           </tr>
           <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_eudicots.pdf">Eudicots.pdf</a></td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_eudicots.pdf">Eudicots</a></td>
           </tr>
           <tr>
             <td><a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Metazoa.pdf">Metazoa (animals)</a></td>
