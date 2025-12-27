@@ -9,7 +9,7 @@ The species tree used in [ORTHOSCOPE](https://github.com/jun-inoue/orthoscope), 
       <td><img src="images/SpeciesTree.jpg" width="344" height="300" alt=""/></td>
       <td><table width="200" border="0">
           <tr>
-            <td><a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Viridiplantae.pdf">Viridiplantae (green plants)</a></td>
+            <td><a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Plants.pdf">Plants</a></td>
           </tr>
           <tr>
             <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_eudicots.pdf">Eudicots.pdf</a></td>
