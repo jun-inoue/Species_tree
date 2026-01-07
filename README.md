@@ -6,7 +6,7 @@ The species tree used in [ORTHOSCOPE](https://github.com/jun-inoue/orthoscope), 
 <table width="200" border="0">
   <tbody>
     <tr>
-      <td><img src="images/SpeciesTree.jpg" width="344" alt=""/></td>
+      <td><img src="images/SpeciesTree.jpg" width="500" alt=""/></td>
       <td><table width="200" border="0">
           <tr>
             <td><a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Plants.pdf">Plants</a></td>
